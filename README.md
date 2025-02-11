@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I specialize in building stunning, responsive, and
 
 ## 📈 GitHub Stats
 
-| ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamza-Amjad5163&theme=react-dark)  |  ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamza-Amjad5163&theme=radical) |
-|---------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamza-Amjad5163&theme=github_dark&width=500) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-Amjad5163&layout=compact&theme=github_dark&width=500) |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
 
 ---
 ## 📫 Let's Connect!
